@@ -89,3 +89,7 @@ cifix*.*
 docs/workflows/contracts-catalog-prd-*.md
 docs/workflows/generated/
 docs/workflows/generated/**
+
+# BMAD workspace policy
+/_bmad/
+!/_bmad-output/
